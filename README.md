@@ -1,5 +1,5 @@
 # B_section-method.py
-B_section method for finding a function's root 
+B_section method - Numeric method to finding a function's root 
 
 ### Created by Raviv Herrera 
 
