@@ -9,7 +9,7 @@ Convergence is promised so there is no chance for divergence case that leads for
 ## Arguments passing :
 The function recives 5 parameters . (listed form left to right):
 
-###def B_section(epsilon, a, b, func, Mode):
+### def B_section(epsilon, a, b, func, Mode):
 
 1) Epsilon value (must be under 1 ) 
 2) Initial value for a
