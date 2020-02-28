@@ -1,4 +1,4 @@
-# B_section-method.py
+# B_section method
 B_section method - Numeric method to find a function's root 
 
 ### Created by Raviv Herrera 
